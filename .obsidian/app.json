@@ -1,0 +1,11 @@
+{
+  "promptDelete": true,
+  "vimMode": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": ".//adjuntos",
+  "propertiesInDocument": "source",
+  "showLineNumber": false
+}

@@ -1,0 +1,32 @@
+## Fundamentos esenciales
+[sintaxis_de_patrones_regex_en_python](sintaxis_de_patrones_regex_en_python)
+[cadenas_raw_en_python_r](cadenas_raw_en_python_r)
+[clases_de_caracteres_en_regex](clases_de_caracteres_en_regex)
+[cuantificadores_regex](cuantificadores_regex)
+[anclas_y_limites_en_regex](anclas_y_limites_en_regex)
+[alternancia_y_agrupacion_en_regex](alternancia_y_agrupacion_en_regex)
+
+## Funciones principales de `re`
+[re.search_buscar_la_primera_coincidencia](re.search_buscar_la_primera_coincidencia)
+[re.match_buscar_al_inicio_de_una_cadena](re.match_buscar_al_inicio_de_una_cadena)
+[re.fullmatch_validar_una_cadena_completa](re.fullmatch_validar_una_cadena_completa)
+[re.findall_extraer_todas_las_coincidencias](re.findall_extraer_todas_las_coincidencias)
+[re.finditer_iterar_coincidencias_con_sus_posiciones](re.finditer_iterar_coincidencias_con_sus_posiciones)
+[re.sub_sustituir_coincidencias](re.sub_sustituir_coincidencias)
+[re.split_dividir_texto_mediante_regex](re.split_dividir_texto_mediante_regex)
+[re.compile_crear_patrones_regex_reutilizables](re.compile_crear_patrones_regex_reutilizables)
+
+## Técnicas de uso real
+[grupos_de_captura_en_regex_extraer_datos_con_group](grupos_de_captura_en_regex_extraer_datos_con_group)
+[grupos_con_nombre_en_regex](grupos_con_nombre_en_regex)
+[validacion_de_formatos_con_regex_re.fullmatch](validacion_de_formatos_con_regex_re.fullmatch)
+[extraccion_de_datos_con_regex_re.findall_y_grupos](extraccion_de_datos_con_regex_re.findall_y_grupos)
+[limpieza_y_normalización_de_texto_con_re.sub](limpieza_y_normalización_de_texto_con_re.sub)
+[banderas_regex_IGNORECASE_MULTILINE_DOTALL](banderas_regex_IGNORECASE_MULTILINE_DOTALL)
+
+## Robustez y rendimiento
+[regex_codiciosas_y_no_codiciosas](regex_codiciosas_y_no_codiciosas)
+[re.escape_escapar_entradas_dinamicas_en_regex](re.escape_escapar_entradas_dinamicas_en_regex)
+[unicode_y_limites_de_caracteres](unicode_y_limites_de_caracteres)
+[regex_eficiente_evitar_el_retroceso_catastrofico](regex_eficiente_evitar_el_retroceso_catastrofico)
+[manejo_seguro_de_coincidencias_regex_Match_o_None](manejo_seguro_de_coincidencias_regex_Match_o_None)

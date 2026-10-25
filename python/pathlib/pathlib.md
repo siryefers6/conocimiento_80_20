@@ -1,0 +1,21 @@
+## Conceptos fundamentales
+[representar_rutas_del_sistema_de_archivos](representar_rutas_del_sistema_de_archivos)
+[construir_rutas_con_el_operador_/](construir_rutas_con_el_operador.md)
+[resolver_rutas_absolutas_y_relativas](resolver_rutas_absolutas_y_relativas)
+[extraer_componentes_de_una_ruta](extraer_componentes_de_una_ruta)
+[obtener_el_directorio_de_trabajo_con_Path.cwd](obtener_el_directorio_de_trabajo_con_Path.cwd)
+
+## Operaciones con archivos y directorios
+[comprobar_existencia_y_tipo_de_ruta](comprobar_existencia_y_tipo_de_ruta)
+[crear_directorios_con_mkdir](crear_directorios_con_mkdir)
+[listar_contenido_con_iterdir](listar_contenido_con_iterdir)
+[buscar_archivos_con_glob_y_rglob](buscar_archivos_con_glob_y_rglob)
+[leer_y_escribir_archivos_de_texto_y_binarios](leer_y_escribir_archivos_de_texto_y_binarios)
+[eliminar_renombrar_y_reemplazar_rutas](eliminar_renombrar_y_reemplazar_rutas)
+
+## Metadatos y mantenimiento
+[consultar_metadatos_con_stapt](consultar_metadatos_con_stat)
+[convertir_marcas_temporales_en_fechas](convertir_marcas_temporales_en_fechas)
+[recorrer_arboles_con_Path.walk](recorrer_arboles_con_Path.walk)
+[gestionar_errores_del_sistema_de_archivos](gestionar_errores_del_sistema_de_archivos)
+[validar_rutas_seguras_con_resolve_e_is_relative_to](validar_rutas_seguras_con_resolve_e_is_relative_to)

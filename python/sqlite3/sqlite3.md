@@ -1,0 +1,53 @@
+## Consultas fundamentales
+[SELECT_seleccionar_columnas](SELECT_seleccionar_columnas)
+[FROM_indicar_la_tabla](FROM_indicar_la_tabla)
+[WHERE_filtrar_registros](WHERE_filtrar_registros)
+[ORDER_BY_ordenar_resultados](ORDER_BY_ordenar_resultados)
+[LIMIT_y_OFFSET_limitar_y_paginar_resultados](LIMIT_y_OFFSET_limitar_y_paginar_resultados)
+[DISTICT_eliminar_duplicados](DISTICT_eliminar_duplicados)
+
+## Filtrado de datos
+[operadores_de_comparacion](operadores_de_comparacion)
+[AND_OR_NOT_combinar_condiciones](AND_OR_NOT_combinar_condiciones)
+[IN_comparar_con_varios_valores](IN_comparar_con_varios_valores)
+[BETWEEN_filtrar_rangos](BETWEEN_filtrar_rangos)
+[LIKE_buscar_patrones_de_texto](LIKE_buscar_patrones_de_texto)
+[IS_NULL_e_IS_NOT_NULL_comprobar_valores_nulos](IS_NULL_e_IS_NOT_NULL_comprobar_valores_nulos)
+
+## Agregaciones y agrupaciones
+[COUNT_contar_registros](COUNT_contar_registros.md)
+[SUM_sumar_valores](SUM_sumar_valores.md)
+[AVG_calcular_promedios](AVG_calcular_promedios.md)
+[MIN_y_MAX_obtener_extremos](MIN_y_MAX_obtener_extremos.md)
+[GROUP_BY_agrupar_registros](GROUP_BY_agrupar_registros)
+[HAVING_filtrar_grupos](HAVING_filtrar_grupos)
+
+## Modificación de datos
+[INSERT_INTO_insertar_registros](INSERT_INTO_insertar_registros)
+[UPDATE_modificar_registros](UPDATE_modificar_registros)
+[DELETE_FROM_eliminar_registros](DELETE_FROM_eliminar_registros)
+[RETURNING_recuperar_los_registros_afectados](RETURNING_recuperar_los_registros_afectados)
+[BEGIN_COMMIT_ROLLBACK_controlar_transacciones](BEGIN_COMMIT_ROLLBACK_controlar_transacciones)
+
+## Relaciones entre tablas
+[PRIMARY_KEY_identificar_registros](PRIMARY_KEY_identificar_registros)
+[FOREIGN_KEY_relacionar_tablas](FOREIGN_KEY_relacionar_tablas)
+[INNER_JOIN_obtener_coincidencias](INNER_JOIN_obtener_coincidencias)
+[LEFT_JOIN_conservar_todos_los_registros_de_tabla_izquierda](LEFT_JOIN_conservar_todos_los_registros_de_tabla_izquierda)
+[relaciones_uno_a_muchos_1_N](relaciones_uno_a_muchos_1_N)
+[alias_de_tablas_y_columnas](alias_de_tablas_y_columnas)
+
+## Consultas avanzadas esenciales
+[subconsultas_con_SELECT](subconsultas_con_SELECT)
+[CASE_WHEN_crear_condiciones_dentro_de_una_consulta](CASE_WHEN_crear_condiciones_dentro_de_una_consulta)
+[COALESCE_sustituir_valores_NULL](COALESCE_sustituir_valores_NULL)
+[WITH_crear_consultas_temporales_mediante_CTE](WITH_crear_consultas_temporales_mediante_CTE)
+[date_datetime_y_strftime_trabajar_con_fechas](date_datetime_y_strftime_trabajar_con_fechas)
+[UNION_y_UNION_ALL_combinar_resultados](UNION_y_UNION_ALL_combinar_resultados)
+
+## Rendimiento y seguridad
+[CREATE_INDEX_acelerar_consultas](CREATE_INDEX_acelerar_consultas)
+[EXPLAIN_QUERY_PLAN_inspeccionar_planes_de_ejecucion](EXPLAIN_QUERY_PLAN_inspeccionar_planes_de_ejecucion)
+[consultas_parametrizadas_con_python](consultas_parametrizadas_con_python)
+[restricciones_NOT_NULL_UNIQUE_y_CHECK](restricciones_NOT_NULL_UNIQUE_y_CHECK)
+[diferencias_entre_NULL_cero_y_cadenas_vacias](diferencias_entre_NULL_cero_y_cadenas_vacias)

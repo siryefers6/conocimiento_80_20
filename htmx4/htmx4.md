@@ -1,0 +1,61 @@
+## Fundamentos de HTMX4
+[que_es_htmx](que_es_htmx)
+[comunicacion_http_desde_html](comunicacion_http_desde_html)
+[pagina_completa_vs_fragmento_html](pagina_completa_vs_fragmento_html)
+[flujo_navegador_fastapi_jinja2](flujo_navegador_fastapi_jinja2)
+
+## Atributos esenciales
+[atributo_hx-get](atributo_hx-get)
+[atributo_hx-post](atributo_hx-post)
+[atributo_hx-trigger](atributo_hx-trigger)
+[atributo_hx-target](atributo_hx-target)
+[atributo_hx-swap](atributo_hx-swap)
+
+## Peticiones y respuestas con FastAPI
+[endpoints_que_responden_con_html](endpoints_que_responden_con_html)
+[devolver_fragmentos_con_templateresponse](devolver_fragmentos_con_templateresponse)
+[pasar_datos_a_jinja2](pasar_datos_a_jinja2)
+[reemplazar_contenido_con_la_respuesta_del_servidor](reemplazar_contenido_con_la_respuesta_del_servidor)
+[diferenciar_respuestas_html_de_json](diferenciar_respuestas_html_de_json)
+[manejar_codigos_http](manejar_codigos_http)
+
+## Formularios y envío de datos
+[enviar_formularios_con_hx-post](enviar_formularios_con_hx-post)
+[enviar_datos_sin_recargar_la_pagina](enviar_datos_sin_recargar_la_pagina)
+[validar_formularios_con_pydantic](validar_formularios_con_pydantic)
+[mostrar_errores_de_validacion_en_formularios](mostrar_errores_de_validacion_en_formularios)
+[limpiar_campos_despues_de_guardar](limpiar_campos_despues_de_guardar)
+[evitar_envios_duplicados](evitar_envios_duplicados)
+
+## Actualización parcial de componentes
+[actualizar_tablas_filas_y_tarjetas](actualizar_tablas_filas_y_tarjetas)
+[usar_hx-target_y_hx-swap_correctamente](usar_hx-target_y_hx-swap_correctamente)
+[insertar_elementos_con_beforeend](insertar_elementos_con_beforeend)
+[reemplazar_componentes_con_outerhtml](reemplazar_componentes_con_outerhtml)
+[actualizar_varios_elementos_con_hx-swap-oob_y_hx-select-oob](actualizar_varios_elementos_con_hx-swap-oob_y_hx-select-oob)
+
+## Búsqueda, filtros y paginación
+[busqueda_dinamica_con_hx-trigger](busqueda_dinamica_con_hx-trigger)
+[retrasar_peticiones_con_delay](retrasar_peticiones_con_delay)
+[filtrar_datos_desde_el_servidor](filtrar_datos_desde_el_servidor)
+[actualizar_tablas_sin_recargar_la_pagina](actualizar_tablas_sin_recargar_la_pagina)
+[paginacion_del_lado_del_servidor](paginacion_del_lado_del_servidor)
+
+## Eventos y comportamiento de HTMX 4
+[eventos_htmx_before_request_y_htmx_after_request](eventos_htmx_before_request_y_htmx_after_request)
+[eventos_de_respuesta_y_errores](eventos_de_respuesta_y_errores)
+[ejecutar_acciones_despues_de_actualizar_el_html](ejecutar_acciones_despues_de_actualizar_el_html)
+[gestionar_notificaciones_de_exito_y_error](gestionar_notificaciones_de_exito_y_error)
+[usar_hx-on_con_javascript_minimo](usar_hx-on_con_javascript_minimo)
+[mostrar_indicadores_con_hx-indicator](mostrar_indicadores_con_hx-indicator)
+[deshabilitar_controles_con_hx-disable](deshabilitar_controles_con_hx-disable)
+[confirmar_acciones_con_hx-confirm](confirmar_acciones_con_hx-confirm)
+[evitar_solicitudes_duplicadas](evitar_solicitudes_duplicadas)
+[mostrar_errores_del_servidor_sin_romper_la_interfaz](mostrar_errores_del_servidor_sin_romper_la_interfaz)
+
+## Navegación e historial
+[hx-boost_y_navegacion_progresiva](hx-boost_y_navegacion_progresiva)
+[actualizar_la_url_con_hx-push-url](actualizar_la_url_con_hx-push-url)
+[diferenciar_navegacion_normal_y_parcial](diferenciar_navegacion_normal_y_parcial)
+[gestionar_los_botones_atras_y_adelante](gestionar_los_botones_atras_y_adelante)
+[recuperar_paginas_al_restaurar_el_historial](recuperar_paginas_al_restaurar_el_historial)
